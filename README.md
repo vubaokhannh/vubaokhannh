@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Khanh</h1>
-<h3 align="center">🚀 Backend Engineer | Node.js | Scalable Systems</h3>
+<h3 align="center">🚀 Backend Engineer | Node.js • Laravel • Scalable Systems</h3>
 
 <p align="center">
   <a href="https://github.com/vubaokhannh">
@@ -10,6 +10,15 @@
 </p>
 
 ---
+
+## 🧠 About Me
+
+<p align="center">
+Passionate backend developer focused on building scalable APIs, clean architecture, and high-performance systems.
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -23,17 +32,26 @@
 </p>
 
 ---
-## 📫 Connect With Me
+
+## 📫 Connect
 
 <p align="center">
-  <a href="mailto:vubaokhannh2311@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/vubaokhannh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:vubaokhannh2311@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vubaokhannh">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 💬 Philosophy
 
-> "Good backend systems are not just working — they scale, they perform, and they last."
+<p align="center">
+
+> *"Good backend systems are not just working — they scale, perform, and last."*
+
+</p>
 
 ---
