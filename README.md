@@ -10,43 +10,19 @@
 </p>
 
 ---
-
-
 ## 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,postgres,mysql,redis,docker,git" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,php,laravel" />
 <br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,firebase,figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,scss" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,git,github,wordpress" />
 
 </p>
 
 ---
-
-## 🧩 Featured Project
-
-### 🔥 Trello-like Task Management System
-
-<p>
-🔗 <a href="https://github.com/vubaokhannh/trello-backend">Backend Repo</a> |
-🔗 <a href="https://github.com/vubaokhannh/trello-frontend">Frontend Repo</a>
-</p>
-
-🌐 API Docs: https://api.krello.biz/api-docs#/
-🌐 Live Demo: https://web.krello.biz/
-
-## 💼 Experience
-
-**Frontend Developer – CUSC**
-📅 05/2025 – 08/2025
-
-* Built responsive UI (Next.js + Tailwind)
-* Integrated RESTful APIs
-* Improved UX & performance
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
